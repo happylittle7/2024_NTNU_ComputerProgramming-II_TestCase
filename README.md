@@ -15,7 +15,7 @@
 diff my_output_file your_output_file
 ```
 
-Windows PowerShell Diff
+## Windows PowerShell Diff
 ```shell
 compare-object (get-content my_output_file) (get-content your_output_file)
 ```
