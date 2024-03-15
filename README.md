@@ -23,3 +23,5 @@ diff my_output_file your_output_file
 ## Update log
 
 ### HW01
+
+**3/15** Upload hw0101 test program.(not sure about the correctness)
